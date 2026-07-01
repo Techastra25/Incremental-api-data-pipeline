@@ -1,0 +1,6 @@
+data/raw/
+data/processed/
+data/watermark.json
+__pycache__/
+*.pyc
+.DS_Store
